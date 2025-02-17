@@ -6,9 +6,7 @@ import { nanoid } from 'nanoid';
 
 function App() {
 
-  const [notes, setNotes] = useState([
-    
-  ])
+  const [notes, setNotes] = useState([])
   // {
   //   id: nanoid(),
   //   text: "This is my first note!",
